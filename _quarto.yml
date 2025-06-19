@@ -4,6 +4,7 @@ project:
 
 website:
   title: "IDE-AI"
+  site-url: https://csuonereal.github.io
   navbar:
     right:
       - about.qmd
