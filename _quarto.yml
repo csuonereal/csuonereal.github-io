@@ -1,23 +1,18 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "IDE-AI"
-  site-url: https://csuonereal.github.io
+  title: "Nerdy Bits"
+  site-url: https://www.nerdybits.net
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/csuonereal # Changed to your username
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/ # Add your Twitter handle here
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-
-
-
