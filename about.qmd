@@ -1,19 +1,24 @@
 ---
 title: "About"
-image: profile.jpg
+image: https://csuonereal.s3.amazonaws.com/photos/profile.jpeg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: briefcase
+      text: Portfolio
+      href: https://www.ulastuzun.com/
+      target: "_blank"
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/ulastuzun/
+      target: "_blank"
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/csuonereal/
+      target: "_blank"
 
 ---
 
-About this blog
+Hello! My name is Ulaş. I'm a technology enthusiast currently pursuing my Master's degree in Computer Science.
+
+This blog is my digital space to explore the wide world of technology. As a computer science student, I'm fascinated by many topics—from software development and system architecture to the latest advancements in AI. Here, I'll share my projects, thoughts on interesting tech, and what I'm learning along the way. Thanks for stopping by!

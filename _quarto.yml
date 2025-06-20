@@ -4,13 +4,10 @@ project:
 website:
   title: "Nerdy Bits"
   site-url: https://www.nerdybits.net
+  description: "A blog by Ulaş Tüzün exploring practical AI, software development, and other interesting topics in computer science."
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/csuonereal # Changed to your username
-      - icon: twitter
-        href: https://twitter.com/ # Add your Twitter handle here
 
 format:
   html:
